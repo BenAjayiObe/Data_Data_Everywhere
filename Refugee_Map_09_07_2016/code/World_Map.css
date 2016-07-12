@@ -10,13 +10,15 @@ html {
 
 body {
 	height: 100%;
-	overflow: auto;
+	overflow: hidden;
 	/*background-image: url(Parliament_Background.jpg);*/
 	background-color: #fffaf0;
 	background-size: cover;
 	margin: 0;
 	background-repeat: no-repeat;
 }
+
+
 
 div.map_area {
 	float: left;
